@@ -1,0 +1,39 @@
+    .first{
+        font-size: 45px;
+        font-style: oblique;
+        font-family: verdana;
+        text-decoration: underline;
+    }
+    .second{
+        font-style: oblique;
+        font-family: verdana;
+        text-decoration: underline;
+        font-size: 35px;
+    }
+    .third{
+        font-size: 30px;
+        font-style: oblique;
+        font-family: verdana;
+        text-decoration: underline;
+    }
+    .fourth{
+        font-size: 18px;
+        font-family: verdana;
+        text-decoration: underline;
+        font-style: oblique;
+    }
+    .minium{
+        font-family: verdana;
+        text-decoration: underline;
+        font-style: oblique;
+        font-size: 12px;
+    }
+    .back{
+        background-color: #eaf72340;
+    }
+    .last{
+        style="font-size: 18px;
+        font-style: oblique;
+        font-family: verdana;
+        float: left;
+    }
