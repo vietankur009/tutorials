@@ -1,0 +1,27 @@
+            .first{
+                text-align: right;
+                font-family: time new roman;
+                font-size: 45px;
+            }
+            .second{
+                text-align: right;
+                font-family: time new roman;
+                font-size: 27px;
+            }
+            .third{
+                font-family: Edwardian Script ITC;
+                font-size: 30px;
+            }
+            .fourth{
+                font-family: Edwardian Script ITC;
+                font-size: 39px;
+            }
+            .five{
+                font-family: Edwardian Script ITC;
+                font-size: 45px;
+            }
+            .apple{
+                text-align: center;
+                font-size: 23px;
+                font-family: Edwardian Script ITC;
+            }
