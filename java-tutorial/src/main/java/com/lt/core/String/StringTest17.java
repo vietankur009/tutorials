@@ -11,5 +11,11 @@ public class StringTest17 {
         for(int a= y.length-1; a>=0; a=a-1){
             System.out.println(y[a]);
         }
+        System.out.println("===============*reversel charractor wise*==================");
+        String[] c = x.split("");
+        for(int f = c.length-1; f>=0; f= f-1){
+            System.out.print(c[f]);
+        }
+
     }
 }

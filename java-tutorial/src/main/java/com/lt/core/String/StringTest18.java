@@ -9,7 +9,5 @@ public class StringTest18 {
         int t = 10;
         String c = String.valueOf(t);
         System.out.println(c+10);
-
     }
-
 }
