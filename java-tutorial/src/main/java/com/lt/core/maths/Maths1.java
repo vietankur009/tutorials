@@ -9,6 +9,7 @@ public class Maths1 {
         System.out.println(t);
     }
     public static int formula(int a,int b){
+
         return((a+b)*(a-b));
     }
 }

@@ -10,6 +10,7 @@ public class Maths {
 
     }
     public static int addNumbers(int first , int second){
+
         return (first+second);
     }
 }

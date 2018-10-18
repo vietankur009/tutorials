@@ -17,21 +17,27 @@ public class Test3 {
         System.out.println(g);
     }
     public int cuabing (int a, int b, int c){
+
         return (a*b*c);
     }
     public int squre (int d, int f){
+
         return (d*f);
     }
     public double pai (double r){
+
         return (22/7*r*r);
     }
     public double simpleInterest(double p, double r, double t){
+
         return (p*r*t/100);
     }
     public double cube (double n, double m, double v){
+
         return (2*n*(m+v));
     }
     public double valueofcube(double h, double g, double t){
+
         return(h*g*t);
     }
 
