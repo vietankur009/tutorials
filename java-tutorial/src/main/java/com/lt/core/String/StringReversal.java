@@ -1,6 +1,6 @@
 package com.lt.core.String;
 
-public class StringTest17 {
+public class StringReversal {
     public static void main(String... arg){
         String x = "Ankit Is Learning Java";
         String [] y = x.split(" ");

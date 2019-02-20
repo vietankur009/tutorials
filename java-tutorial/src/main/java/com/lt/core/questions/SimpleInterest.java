@@ -22,16 +22,17 @@ public class SimpleInterest {
 
         return (p * r * t / 100);
     }
-    public static void table(){
-        int i= 1;
-        while (i<=10){
-            int j=1;
-            while (j<=10){
-                System.out.println(i +"  *  " + j + "  =  " + i * j);
-                j=j+1;
+
+    public static void table() {
+        int i = 1;
+        while (i <= 10) {
+            int j = 1;
+            while (j <= 10) {
+                System.out.println(i + "  *  " + j + "  =  " + i * j);
+                j = j + 1;
             }
             System.out.println("================");
-            i=i+1;
+            i = i + 1;
         }
 
     }

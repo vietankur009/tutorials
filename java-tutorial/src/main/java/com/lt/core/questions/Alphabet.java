@@ -1,8 +1,5 @@
 package main.java.com.lt.core.questions;
 
-/**
- * Created by Lhotse Team on 2/15/2019.
- */
 public class Alphabet {
     public static void main(String... arg){
         int ch = 0;

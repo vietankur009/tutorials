@@ -10,6 +10,7 @@ public class Mainess {
     }
 
     public static int mainess(int first, int second){
+
         return (first-second);
     }
 }

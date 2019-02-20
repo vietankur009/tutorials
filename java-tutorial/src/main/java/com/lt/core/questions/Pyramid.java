@@ -48,46 +48,50 @@ public class Pyramid {
                 System.out.print(j);
                 j = j - 1;
             }
-           System.out.println("");
-            x=x-1;
+            System.out.println("");
+            x = x - 1;
         }
     }
-    public static void array(){
-        int [] i = new int [10];
-        for(int a = 0; a<=i.length-1; a=a+1){
-            i[a] = a*15;
+
+    public static void array() {
+        int[] i = new int[10];
+        for (int a = 0; a <= i.length - 1; a = a + 1) {
+            i[a] = a * 15;
         }
-        for(int j = 0; j <= i.length-1; j=j+1){
+        for (int j = 0; j <= i.length - 1; j = j + 1) {
             System.out.println(i[j]);
         }
     }
-    public static int array1(){
-        int [] i = new int [10];
-        for(int a = 0; a<=i.length-1; a=a+1){
-            i[a] = a*15;
+
+    public static int array1() {
+        int[] i = new int[10];
+        for (int a = 0; a <= i.length - 1; a = a + 1) {
+            i[a] = a * 15;
         }
-        for(int j = 0; j <= i.length-1; j=j+1){
+        for (int j = 0; j <= i.length - 1; j = j + 1) {
             System.out.println(i[j]);
         }
-        int c =0;
-        for(int k = 0; k<=i.length-1; k=k+1){
-            c=i[k]+c;
+        int c = 0;
+        for (int k = 0; k <= i.length - 1; k = k + 1) {
+            c = i[k] + c;
         }
         return (c);
     }
-    public static void table(){
+
+    public static void table() {
         int a = 1;
-        while (a<=10){
+        while (a <= 10) {
             int b = 1;
-            while (b<=10){
-                System.out.print(a * b+"\t");
-                b = b+1;
+            while (b <= 10) {
+                System.out.print(a * b + "\t");
+                b = b + 1;
             }
             System.out.println("");
-            a=a+1;
+            a = a + 1;
         }
         System.out.println("========================================");
     }
+
     public static void table1() {
         int i = 1;
         while (i <= 10) {
