@@ -8,7 +8,7 @@ public class Range {
                 System.out.println(range +" " + "Number is even");
             }
             if (range%2!=0){
-                System.out.println(range +" " + "no is odd");
+                System.out.println(range +" " + "Number is odd");
             }
         }
     }
