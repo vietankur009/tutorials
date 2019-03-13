@@ -2,6 +2,7 @@ package main.java.com.lt.core.table;
 
 public class Table {
     public static void main(String... arg){
+
         table(5);
     }
     public static void table(int a){
