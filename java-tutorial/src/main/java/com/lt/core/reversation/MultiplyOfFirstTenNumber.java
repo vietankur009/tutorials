@@ -5,7 +5,7 @@ public class MultiplyOfFirstTenNumber {
         int first = 1;
         for (int count = 1; count <= 10; count = count + 1){
             first = count * first;
-            System.out.println(first);
         }
+        System.out.println(first);
     }
 }
