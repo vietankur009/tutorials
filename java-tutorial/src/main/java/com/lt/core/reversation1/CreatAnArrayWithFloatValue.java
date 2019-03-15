@@ -1,8 +1,5 @@
 package main.java.com.lt.core.reversation1;
 
-/**
- * Created by Lhotse Team on 3/15/2019.
- */
 public class CreatAnArrayWithFloatValue {
     public static void main(String... arg){
         float [] number = new float[5];
