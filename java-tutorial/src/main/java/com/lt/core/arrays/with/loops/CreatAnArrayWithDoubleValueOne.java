@@ -1,8 +1,5 @@
 package main.java.com.lt.core.arrays.with.loops;
 
-/**
- * Created by Lhotse Team on 3/16/2019.
- */
 public class CreatAnArrayWithDoubleValueOne {
     public static void main(String... arg){
         double [] x = new double[5];
