@@ -6,7 +6,7 @@ public class SchoolExeutor {
     public static void main(String... arg){
         Schools priyanka = new Schools();
         priyanka.setName("Priyanka Modal Scnior secondory School");
-        priyanka.setAddress("Near Dhampur Suger Mill Distt. Bijnor Uttar Pradesh");
+        priyanka.setAddress("Near Dhampur Suger Mill (DSM) Distt. Bijnor Uttar Pradesh");
         priyanka.setBord("C.B.S.C Afferated Delhi");
         priyanka.setQuainty(2500);
         priyanka.setPhysicsStudentQty(1500);
