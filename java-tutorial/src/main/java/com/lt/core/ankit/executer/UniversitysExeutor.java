@@ -66,14 +66,7 @@ public class UniversitysExeutor {
         universityList[4] = ptu;
 
         for (int i = 0; i <= universityList.length-1; i = i + 1){
-            universityList[i].getName();
-            universityList[i].getUniversityName();
-            universityList[i].getPrincipalName();
-            universityList[i].getBscStudent();
-            universityList[i].getMathesStudent();
-            universityList[i].getPhysicsStudent();
-            universityList[i].getUniversityAdderess();
-            universityList[i].getUniversityCorrecess();
+            
             System.out.println(universityList[i].getName()+ "," + universityList[i].getUniversityName()+ "," + universityList[i].getPrincipalName()+ "," +universityList[i].getBscStudent()+ ","+ universityList[i].getMathesStudent()+ ","+ universityList[i].getPhysicsStudent()+ "," + universityList[i].getUniversityAdderess()+ "," + universityList[i].getUniversityCorrecess());
         }
 
